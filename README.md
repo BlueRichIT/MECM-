@@ -1,4 +1,4 @@
-# MECM Health Monitor for IIS
+# MECM Health Monitor
 
 This package installs a read-only MECM operations dashboard on Windows IIS. You
 enter only server, site, AdminService, and SQL connection details in XML. The
